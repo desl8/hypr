@@ -1,1 +1,1 @@
-<h1>Requires KDE Plasma backgrounds for the wallpaper!</h1>
+<h2>Requires KDE Plasma backgrounds for the wallpaper!</h2>
